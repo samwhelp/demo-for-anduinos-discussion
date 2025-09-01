@@ -89,8 +89,54 @@ mod_project_install_main () {
 	return 0
 }
 
+mod_project_install_bin () {
+
+	local des_bin_dir_path="${pkgdir}/usr/bin"
+
+	echo
+	echo mkdir -p "${des_bin_dir_path}"
+	mkdir -p "${des_bin_dir_path}"
+
+	echo
+	echo ln -sf "/usr/share/palemoon/palemoon" "${des_bin_dir_path}/palemoon"
+	ln -sf "/usr/share/palemoon/palemoon" "${des_bin_dir_path}/palemoon"
 
 
+	return 0
+}
+
+mod_project_install_desktop_entry () {
+
+	local des_applications_dir_path="${pkgdir}/usr/share/applications"
+
+	echo
+	echo mkdir -p "${des_applications_dir_path}"
+	mkdir -p "${des_applications_dir_path}"
+
+
+
+
+cat << __EOF__ | tee "${des_applications_dir_path}/palemoon.desktop"
+[Desktop Entry]
+Version=1.0
+Name=Pale Moon Web Browser
+Comment=Browse the World Wide Web
+Keywords=Internet;WWW;Browser;Web;Explorer
+Exec=palemoon %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=palemoon
+Categories=Network;WebBrowser;Internet
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
+__EOF__
+
+
+
+
+	return 0
+}
 
 
 ##
@@ -125,6 +171,9 @@ model_start () {
 
 	mod_project_install_main
 
+	mod_project_install_bin
+
+	mod_project_install_desktop_entry
 
 
 
