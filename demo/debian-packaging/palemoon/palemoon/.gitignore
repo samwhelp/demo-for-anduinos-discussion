@@ -1,1 +1,4 @@
+debian/debhelper*
+debian/.debhelper
 debian/palemoon*
+/build/
