@@ -1,0 +1,18 @@
+Source: palemoon
+Section: web
+Priority: optional
+Maintainer: Develop Team <develop@home.heaven>
+Build-Depends:
+ debhelper (>= 10),
+ make
+Standards-Version: 4.7.2
+Homepage: https://samwhelp.github.io/demo-for-anduinos-discussion/
+Vcs-Browser: https://github.com/samwhelp/demo-for-anduinos-discussion
+Vcs-Git: https://github.com/samwhelp/demo-for-anduinos-discussion.git
+
+Package: palemoon
+Architecture: all
+Depends:
+ ${misc:Depends}
+Description: Web Browser / palemoon
+ This is palemoon browser packaging created by samwhelp.
