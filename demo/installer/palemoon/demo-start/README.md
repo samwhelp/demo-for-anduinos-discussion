@@ -11,3 +11,12 @@
 
 * [https://www.palemoon.org/download.shtml](https://www.palemoon.org/download.shtml)
 * [https://developer.palemoon.org/docs/linux-installation/](https://developer.palemoon.org/docs/linux-installation/)
+
+
+
+
+## Pacstall
+
+| Pacscript | Source |
+| --------- | ------ |
+| [palemoon](https://github.com/samwhelp/anduinos-pacstall/blob/main/packages/palemoon/palemoon.pacscript) | [Source](https://www.palemoon.org/download.shtml) |
