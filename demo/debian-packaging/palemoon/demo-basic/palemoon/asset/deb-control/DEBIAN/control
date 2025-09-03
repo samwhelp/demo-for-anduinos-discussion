@@ -1,0 +1,10 @@
+Package: palemoon
+Version: 0.1.1
+Architecture: amd64
+Maintainer: Develop Team <develop@home.heaven>
+Depends: libdbus-glib-1-2
+Section: web
+Priority: optional
+Homepage: https://github.com/samwhelp/demo-for-anduinos-discussion
+Description: Web Browser / palemoon
+ This is palemoon browser packaging created by samwhelp.
