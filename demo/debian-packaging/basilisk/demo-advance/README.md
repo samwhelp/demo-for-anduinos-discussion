@@ -20,6 +20,16 @@
 
 
 
+## Debian Packaging
+
+| Debian Packaging |
+| ---------------- |
+| [demo-basic](https://github.com/samwhelp/demo-for-anduinos-discussion/tree/main/demo/debian-packaging/basilisk/demo-basic) |
+| [demo-advance](https://github.com/samwhelp/demo-for-anduinos-discussion/tree/main/demo/debian-packaging/basilisk/demo-advance) |
+
+
+
+
 ## Pacstall
 
 | Pacscript | Source |
