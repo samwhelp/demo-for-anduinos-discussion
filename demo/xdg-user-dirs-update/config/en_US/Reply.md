@@ -1,6 +1,14 @@
 
 
-# Reply
+## Issue
+
+* #262 / [Reply](https://github.com/Anduin2017/AnduinOS/issues/262#issuecomment-3525843720)
+
+
+
+
+## Reply Content
+
 
 我安裝的是英文版，我提供我的「[~/.config/user-dirs.dirs](https://github.com/samwhelp/demo-for-anduinos-discussion/blob/main/demo/xdg-user-dirs-update/config/en_US/user-dirs.dirs)」給您參考。
 
