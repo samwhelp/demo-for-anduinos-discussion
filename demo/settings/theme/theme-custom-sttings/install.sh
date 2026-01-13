@@ -38,3 +38,16 @@ gsettings set org.gnome.desktop.interface icon-theme 'Fluent-teal-dark'
 gsettings set org.gnome.desktop.wm.preferences theme 'Fluent-round-teal-Dark'
 
 gsettings set org.gnome.shell.extensions.user-theme name 'Fluent-round-teal-Dark'
+
+
+
+
+##
+## ## Set Theme / Color Scheme
+##
+
+## light theme
+#gsettings set org.gnome.desktop.interface color-scheme 'default'
+
+## dark theme
+gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
