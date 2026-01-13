@@ -17,6 +17,15 @@ gnome-extensions disable accent-user-theme@brgvos
 
 
 ##
+## ## Wait for a while
+##
+
+sleep 5
+
+
+
+
+##
 ## ## Set Theme
 ##
 
