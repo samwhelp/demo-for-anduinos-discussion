@@ -14,6 +14,15 @@ cp -r unsafe-mode-menu@linushdot.local ~/.local/share/gnome-shell/extensions/
 
 
 ##
+## ## Logout
+##
+
+#gnome-session-quit
+
+
+
+
+##
 ## ## Link
 ##
 ## * https://askubuntu.com/questions/1201849/invoking-gnome-show-applications-from-command-line

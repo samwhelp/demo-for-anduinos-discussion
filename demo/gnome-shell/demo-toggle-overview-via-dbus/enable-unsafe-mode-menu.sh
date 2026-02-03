@@ -13,6 +13,15 @@ gnome-extensions enable unsafe-mode-menu@linushdot.local
 
 
 ##
+## ## enable-on-startup
+##
+
+dconf write /org/gnome/shell/extensions/unsafe-mode-menu/enable-on-startup true
+
+
+
+
+##
 ## ## unsafe mode
 ##
 
