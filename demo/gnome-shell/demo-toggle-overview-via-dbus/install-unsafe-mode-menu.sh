@@ -8,7 +8,7 @@ cd unsafe-mode-menu
 
 mkdir -p ~/.local/share/gnome-shell/extensions/
 
-cp -r unsafe-mode-menu@linushdot.local ~/.local/share/gnome-shell/extensions/
+cp -rfT unsafe-mode-menu@linushdot.local ~/.local/share/gnome-shell/extensions/unsafe-mode-menu@linushdot.local
 
 
 
