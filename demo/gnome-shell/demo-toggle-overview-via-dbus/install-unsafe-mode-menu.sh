@@ -4,11 +4,9 @@
 
 git clone https://github.com/linushdot/unsafe-mode-menu.git
 
-cd unsafe-mode-menu
-
 mkdir -p ~/.local/share/gnome-shell/extensions/
 
-cp -rfT unsafe-mode-menu@linushdot.local ~/.local/share/gnome-shell/extensions/unsafe-mode-menu@linushdot.local
+cp -rfT ./unsafe-mode-menu/unsafe-mode-menu@linushdot.local ~/.local/share/gnome-shell/extensions/unsafe-mode-menu@linushdot.local
 
 
 
