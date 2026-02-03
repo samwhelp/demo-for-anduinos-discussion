@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Toggle Application Overview
+Comment=Gnome Shell Toggle Application Overview
+# Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+Keywords=overview;toggle;application;
+Exec=gnome-shell-toggle-application-overview.sh
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=show-grid
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=GNOME;GTK;System;
+X-Ubuntu-Gettext-Domain=toggle-application-overview
