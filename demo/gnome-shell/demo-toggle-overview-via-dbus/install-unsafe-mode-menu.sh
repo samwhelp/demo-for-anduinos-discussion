@@ -2,6 +2,11 @@
 
 
 
+
+##
+## ## install unsafe-mode-menu
+##
+
 git clone https://github.com/linushdot/unsafe-mode-menu.git
 
 mkdir -p ~/.local/share/gnome-shell/extensions/
