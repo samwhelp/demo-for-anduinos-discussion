@@ -16,6 +16,7 @@
 ## Discussion
 
 * [#277 - Move recycle bin to taskbar](https://github.com/Anduin2017/AnduinOS/discussions/277)
+* [#281 - [Ubuntu Desktop] Add "Show Trash Folder" setting](https://github.com/Anduin2017/AnduinOS/issues/281)
 
 
 
