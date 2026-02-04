@@ -2,7 +2,7 @@
 
 
 ##
-## ## hide `trash icon at desktop` via `gsettings`
+## ## hide `trash icon on desktop` via `gsettings`
 ##
 
 #gsettings set org.gnome.shell.extensions.ding show-trash false
@@ -11,7 +11,7 @@
 
 
 ##
-## ## hide `trash icon at desktop` via `dconf`
+## ## hide `trash icon on desktop` via `dconf`
 ##
 
 dconf write /org/gnome/shell/extensions/ding/show-trash false

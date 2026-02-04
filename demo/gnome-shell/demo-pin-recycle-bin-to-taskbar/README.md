@@ -15,8 +15,8 @@
 
 ## Discussion
 
-* [#277 - Move recycle bin to taskbar](https://github.com/Anduin2017/AnduinOS/discussions/277)
-* [#281 - [Ubuntu Desktop] Add "Show Trash Folder" setting](https://github.com/Anduin2017/AnduinOS/issues/281)
+* [#277 - Move recycle bin to taskbar](https://github.com/Anduin2017/AnduinOS/discussions/277#discussioncomment-15689762)
+* [#281 - [Ubuntu Desktop] Add "Show Trash Folder" setting](https://github.com/Anduin2017/AnduinOS/issues/281#issuecomment-3845095830)
 
 
 
@@ -65,13 +65,14 @@ org.gnome.shell.extensions.ding use-nemo false
 ```
 
 
-run to hide `trash icon at desktop` via `gsettings`
+run to hide `trash icon on desktop` via [gsettings](https://manpages.ubuntu.com/manpages/questing/en/man1/gsettings.1.html)
 
 ``` sh
 gsettings set org.gnome.shell.extensions.ding show-trash false
 ```
 
-or run to hide `trash icon at desktop` via `dconf`
+
+or run to hide `trash icon on desktop` via [dconf](https://manpages.ubuntu.com/manpages/questing/en/man1/dconf.1.html)
 
 ``` sh
 dconf write /org/gnome/shell/extensions/ding/show-trash false
