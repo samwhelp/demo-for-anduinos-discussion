@@ -34,6 +34,7 @@ has_children: false
 * [Keybind / Overview](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15670168)
 * [Keybind / Application Overview](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15670240)
 * [Disable Super Key trigger Menu or Overview](https://github.com/Anduin2017/AnduinOS/discussions/194#discussioncomment-14123287)
+* [Switch Workspace](https://github.com/Anduin2017/AnduinOS/discussions/151)
 
 
 
@@ -84,6 +85,13 @@ has_children: false
 ## Web Browser
 
 * [Web Browser on AnduinOS about Palemoon and Basilisk](https://github.com/Anduin2017/AnduinOS/discussions/208)
+
+
+
+
+## Swap Function
+
+* [Disable Swap Function](https://github.com/Anduin2017/AnduinOS/discussions/95#discussioncomment-13402126)
 
 
 
