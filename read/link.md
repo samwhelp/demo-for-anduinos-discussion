@@ -24,6 +24,7 @@ has_children: false
 * [Gnome Shell Extension Management](#gnome-shell-extension-management)
 * [Icon](#icon)
 * [File Manager](#file-manager)
+* [Web Browser](#web-browser)
 
 
 
@@ -75,6 +76,13 @@ has_children: false
 ## File Manager
 
 * [Thunar](#https://github.com/Anduin2017/AnduinOS/discussions/239#discussioncomment-14761441)
+
+
+
+
+## Web Browser
+
+* [Web Browser on AnduinOS about Palemoon and Basilisk](https://github.com/Anduin2017/AnduinOS/discussions/208)
 
 
 
