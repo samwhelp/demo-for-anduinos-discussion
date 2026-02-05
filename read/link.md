@@ -22,6 +22,7 @@ has_children: false
 * [Dbus](#dbus)
 * [Taskbar](#taskbar)
 * [Gnome Shell Extension Management](#gnome-shell-extension-management)
+* [Icon](#icon)
 
 
 
@@ -58,6 +59,14 @@ has_children: false
 ## Gnome Shell Extension Management
 
 * [Gnome Shell Extension Management](https://github.com/Anduin2017/AnduinOS/discussions/293#discussioncomment-15461119)
+
+
+
+
+## Icon
+
+* [Change Icon](#https://github.com/Anduin2017/AnduinOS/discussions/304#discussioncomment-15591489)
+* [ArcMenu Button Icon](https://github.com/Anduin2017/AnduinOS/discussions/294#discussioncomment-15491242)
 
 
 
