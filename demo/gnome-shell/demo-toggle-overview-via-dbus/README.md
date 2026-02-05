@@ -47,3 +47,5 @@
 * https://askubuntu.com/questions/1201849/invoking-gnome-show-applications-from-command-line
 * https://askubuntu.com/questions/1412130/dbus-calls-to-gnome-shell-dont-work-under-ubuntu-22-04
 * https://github.com/linushdot/unsafe-mode-menu
+* Ubuntu Desktop Guide / [Visual overview of GNOME](https://help.ubuntu.com/stable/ubuntu-help/shell-introduction.html.en)
+* [Projects/GnomeShell/CheatSheet](https://wiki.gnome.org/Projects(2f)GnomeShell(2f)CheatSheet.html)
