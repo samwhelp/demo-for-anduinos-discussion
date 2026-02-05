@@ -89,6 +89,13 @@ has_children: false
 
 
 
+## Plymouth
+
+* [Plymouth](https://github.com/Anduin2017/AnduinOS/discussions/114#discussioncomment-13371702)
+
+
+
+
 ## Swap Function
 
 * [Disable Swap Function](https://github.com/Anduin2017/AnduinOS/discussions/95#discussioncomment-13402126)
