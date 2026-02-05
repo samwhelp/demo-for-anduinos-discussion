@@ -33,6 +33,7 @@ has_children: false
 
 * [Keybind / Overview](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15670168)
 * [Keybind / Application Overview](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15670240)
+* [Disable Super Key trigger Menu or Overview](https://github.com/Anduin2017/AnduinOS/discussions/194#discussioncomment-14123287)
 
 
 
