@@ -65,7 +65,7 @@ has_children: false
 
 ## Icon
 
-* [Change Icon](#https://github.com/Anduin2017/AnduinOS/discussions/304#discussioncomment-15591489)
+* [Change Icon](https://github.com/Anduin2017/AnduinOS/discussions/304#discussioncomment-15591489)
 * [ArcMenu Button Icon](https://github.com/Anduin2017/AnduinOS/discussions/294#discussioncomment-15491242)
 
 
