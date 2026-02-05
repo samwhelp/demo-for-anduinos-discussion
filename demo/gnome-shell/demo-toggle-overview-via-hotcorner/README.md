@@ -10,6 +10,7 @@
 * [Discussion](#discussion)
 * [Script](#script)
 * [Survey](#survey)
+* [Link](#link)
 
 
 
@@ -64,3 +65,11 @@ Execute the following command to enable the `Hot Corner` feature.
 ``` sh
 gsettings set org.gnome.desktop.interface enable-hot-corners true
 ```
+
+
+
+
+## Link
+
+* Ubuntu Desktop Guide / [Visual overview of GNOME](https://help.ubuntu.com/stable/ubuntu-help/shell-introduction.html.en)
+* [Projects/GnomeShell/CheatSheet](https://wiki.gnome.org/Projects(2f)GnomeShell(2f)CheatSheet.html)
