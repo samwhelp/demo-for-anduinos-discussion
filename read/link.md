@@ -23,6 +23,7 @@ has_children: false
 * [Taskbar](#taskbar)
 * [Gnome Shell Extension Management](#gnome-shell-extension-management)
 * [Icon](#icon)
+* [File Manager](#file-manager)
 
 
 
@@ -67,6 +68,13 @@ has_children: false
 
 * [Change Icon](https://github.com/Anduin2017/AnduinOS/discussions/304#discussioncomment-15591489)
 * [ArcMenu Button Icon](https://github.com/Anduin2017/AnduinOS/discussions/294#discussioncomment-15491242)
+
+
+
+
+## File Manager
+
+* [Thunar](#https://github.com/Anduin2017/AnduinOS/discussions/239#discussioncomment-14761441)
 
 
 
