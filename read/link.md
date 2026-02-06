@@ -24,6 +24,7 @@ has_children: false
 * [Taskbar](#taskbar)
 * [Gnome Shell Extension Management](#gnome-shell-extension-management)
 * [Icon](#icon)
+* [Cursor](#curso)
 * [File Manager](#file-manager)
 * [Web Browser](#web-browser)
 
@@ -80,6 +81,13 @@ has_children: false
 
 * [Change Icon](https://github.com/Anduin2017/AnduinOS/discussions/304#discussioncomment-15591489)
 * [ArcMenu Button Icon](https://github.com/Anduin2017/AnduinOS/discussions/294#discussioncomment-15491242)
+
+
+
+
+## Cursor
+
+* [How to change mouse style and color](https://github.com/Anduin2017/AnduinOS/issues/311)
 
 
 
