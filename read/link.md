@@ -23,8 +23,10 @@ has_children: false
 * [Dbus](#dbus)
 * [Taskbar](#taskbar)
 * [Gnome Shell Extension Management](#gnome-shell-extension-management)
+* [Theme](#theme)
 * [Icon](#icon)
 * [Cursor](#curso)
+* [Plymouth](#plymouth)
 * [File Manager](#file-manager)
 * [Web Browser](#web-browser)
 
@@ -77,6 +79,13 @@ has_children: false
 
 
 
+## Theme
+
+* [Change Theme](https://github.com/Anduin2017/AnduinOS/discussions/291#discussioncomment-15460347)
+
+
+
+
 ## Icon
 
 * [Change Icon](https://github.com/Anduin2017/AnduinOS/discussions/304#discussioncomment-15591489)
@@ -92,6 +101,13 @@ has_children: false
 
 
 
+## Plymouth
+
+* [Plymouth](https://github.com/Anduin2017/AnduinOS/discussions/114#discussioncomment-13371702)
+
+
+
+
 ## File Manager
 
 * [Thunar](#https://github.com/Anduin2017/AnduinOS/discussions/239#discussioncomment-14761441)
@@ -102,13 +118,6 @@ has_children: false
 ## Web Browser
 
 * [Web Browser on AnduinOS about Palemoon and Basilisk](https://github.com/Anduin2017/AnduinOS/discussions/208)
-
-
-
-
-## Plymouth
-
-* [Plymouth](https://github.com/Anduin2017/AnduinOS/discussions/114#discussioncomment-13371702)
 
 
 
