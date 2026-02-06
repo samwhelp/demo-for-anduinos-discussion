@@ -96,7 +96,7 @@ has_children: false
 
 ## Cursor
 
-* [How to change mouse style and color](https://github.com/Anduin2017/AnduinOS/issues/311)
+* [How to change mouse style and color](https://github.com/Anduin2017/AnduinOS/discussions/312)
 
 
 
