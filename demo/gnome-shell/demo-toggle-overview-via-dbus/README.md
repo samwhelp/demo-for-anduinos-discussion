@@ -49,3 +49,14 @@
 * https://github.com/linushdot/unsafe-mode-menu
 * Ubuntu Desktop Guide / [Visual overview of GNOME](https://help.ubuntu.com/stable/ubuntu-help/shell-introduction.html.en)
 * [Projects/GnomeShell/CheatSheet](https://wiki.gnome.org/Projects(2f)GnomeShell(2f)CheatSheet.html)
+* https://gjs.guide/
+* https://gjs-docs.gnome.org/
+* https://gjs.guide/extensions/
+* https://gjs.guide/extensions/overview/architecture.html
+* https://gjs.guide/extensions/development/creating.html
+* https://github.com/GNOME/gnome-shell
+* https://gitlab.gnome.org/GNOME/gnome-shell
+* https://github.com/GNOME/gnome-shell/blob/main/js/ui/overview.js
+* https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/ui/overview.js
+* https://github.com/home-sweet-gnome/dash-to-panel
+* https://gitlab.com/arcmenu/ArcMenu
