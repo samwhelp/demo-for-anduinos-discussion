@@ -18,7 +18,7 @@
 ## Discussions
 
 * AnduinOS / [Discussions](https://github.com/Anduin2017/AnduinOS/discussions)
-* AnduinOS / [Issues](https://github.com/samwhelp/demo-for-anduinos-discussion/issues)
+* AnduinOS / [Issues](https://github.com/Anduin2017/AnduinOS/issues)
 
 
 
