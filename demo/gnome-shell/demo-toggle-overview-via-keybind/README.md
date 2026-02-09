@@ -28,6 +28,7 @@
 | Script |
 | ------ |
 | [config-keybind-toggle-application-overview.sh](config-keybind-toggle-application-overview.sh) |
+| [anduinos-gnome-shell-adjustment](https://github.com/samwhelp/anduinos-gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
 
 
 
