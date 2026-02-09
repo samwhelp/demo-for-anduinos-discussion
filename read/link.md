@@ -60,7 +60,8 @@ has_children: false
 
 ## Dbus
 
-* [Toggle Overview via Dbus](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15678560)
+* [Toggle Overview via Dbus v1](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15678560)
+* [Toggle Overview via Dbus v2](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15731991)
 
 
 
