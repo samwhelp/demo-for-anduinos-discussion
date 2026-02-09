@@ -28,3 +28,5 @@
 | Link | GitHub |
 | ---- | ------ |
 | [anduinos-pacstall](https://samwhelp.github.io/anduinos-pacstall/) | [GitHub](https://github.com/samwhelp/anduinos-pacstall) |
+| [anduinos-adjustment](https://samwhelp.github.io/anduinos-pacstall/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
+| [anduinos-gnome-shell-adjustment](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
