@@ -9,6 +9,7 @@
 
 * [Discussion](#discussion)
 * [Link](#link)
+* [Howto](#howto)
 
 
 
@@ -23,3 +24,37 @@
 ## Link
 
 * [src/mods/27-dash-to-panel-patch-mod/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.4/src/mods/27-dash-to-panel-patch-mod/install.sh#L13-L26)
+
+
+
+
+## Howto
+
+### Howto download [003.sh](https://github.com/samwhelp/demo-for-anduinos-discussion/blob/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh) and run [it](https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh).
+
+> run
+
+``` sh
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh)
+```
+
+
+> or run
+
+``` sh
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh -O - )
+```
+
+
+> or run
+
+``` sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh || wget -q https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh -O - )"
+```
+
+
+> or run
+
+``` sh
+bash -c "$(wget -q https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh -O - || curl -fsSL https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-config-visible-activities-button/via-dconf-load-here-documents/additional/001/003.sh)"
+```
