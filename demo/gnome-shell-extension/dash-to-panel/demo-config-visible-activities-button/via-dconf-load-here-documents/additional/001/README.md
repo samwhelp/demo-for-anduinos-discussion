@@ -24,6 +24,7 @@
 ## Link
 
 * [src/mods/27-dash-to-panel-patch-mod/install.sh](https://github.com/Anduin2017/AnduinOS/blob/1.4/src/mods/27-dash-to-panel-patch-mod/install.sh#L13-L26)
+* [demo-install-dash-to-panel](https://github.com/samwhelp/demo-for-anduinos-discussion/tree/main/demo/gnome-shell-extension/dash-to-panel/demo-install-dash-to-panel)
 
 
 
