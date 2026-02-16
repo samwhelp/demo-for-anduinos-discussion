@@ -75,7 +75,8 @@ has_children: false
 
 ## Gnome Shell Extension Management
 
-* [Gnome Shell Extension Management](https://github.com/Anduin2017/AnduinOS/discussions/293#discussioncomment-15461119)
+* [Gnome Shell Extension Management](https://github.com/Anduin2017/AnduinOS/discussions/293#discussioncomment-15461119*)
+* [demo-install-dash-to-panel](https://github.com/samwhelp/demo-for-anduinos-discussion/tree/main/demo/gnome-shell-extension/dash-to-panel/demo-install-dash-to-panel)
 
 
 
