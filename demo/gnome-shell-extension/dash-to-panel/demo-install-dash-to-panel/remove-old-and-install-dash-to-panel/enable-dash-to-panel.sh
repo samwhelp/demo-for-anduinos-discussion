@@ -15,9 +15,9 @@ mod_dash_to_panel_install () {
 
 sys_dash_to_panel_enable () {
 
-	sys_dash_to_panel_enable_via_gext
+	#sys_dash_to_panel_enable_via_gext
 
-	#sys_dash_to_panel_enable_via_gnome_extensions
+	sys_dash_to_panel_enable_via_gnome_extensions
 
 }
 
