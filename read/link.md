@@ -35,6 +35,9 @@ has_children: false
 ## AnduinOS Live ISO
 
 * [How to Customized AnduinOS Live ISO](https://github.com/Anduin2017/AnduinOS/discussions/81)
+* [make does not build target iso](https://github.com/Anduin2017/AnduinOS/issues/139)
+* [A question when making my own ISO](https://github.com/Anduin2017/AnduinOS/discussions/332)
+* [AnduinOS with plasma6 desktop](https://github.com/Anduin2017/AnduinOS/discussions/296)
 
 
 
