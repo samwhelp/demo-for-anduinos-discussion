@@ -72,6 +72,7 @@ has_children: false
 ## Taskbar
 
 * [Move Trash Can Icon on Desktop to Taskbar](https://github.com/Anduin2017/AnduinOS/discussions/277#discussioncomment-15689762)
+* [Start Panel ALWAYS in center](https://github.com/Anduin2017/AnduinOS/issues/343#issuecomment-4719248423)
 
 
 
