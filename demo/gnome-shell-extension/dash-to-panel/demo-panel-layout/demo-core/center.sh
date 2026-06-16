@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+
 
 
 dconf load / << __EOF__

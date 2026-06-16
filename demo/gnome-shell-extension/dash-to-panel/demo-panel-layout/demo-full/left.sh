@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+
 
 
 sys_gnome_shell_extensions_config_for_dash_to_panel () {
