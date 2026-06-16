@@ -12,6 +12,45 @@
 
 
 
+## Howto
+
+
+### Howto download [left.sh](https://github.com/samwhelp/demo-for-anduinos-discussion/blob/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/left.sh) and run [it](https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/left.sh).
+
+> run
+
+``` sh
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/left.sh)
+```
+
+
+> or run
+
+``` sh
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/left.sh -O - )
+```
+
+
+
+
+### Howto download [center.sh](https://github.com/samwhelp/demo-for-anduinos-discussion/blob/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/center.sh) and run [it](https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/center.sh).
+
+> run
+
+``` sh
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/center.sh)
+```
+
+
+> or run
+
+``` sh
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/gnome-shell-extension/dash-to-panel/demo-panel-layout/demo-full/center.sh -O - )
+```
+
+
+
+
 ## Link
 
 
