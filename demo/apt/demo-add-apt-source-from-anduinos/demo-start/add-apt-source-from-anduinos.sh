@@ -94,6 +94,8 @@ REF_AOS_APT_SOURCE_LIST_FILE_PATH="${REF_AOS_APT_SOURCE_LIST_PART_DIR_PATH}/andu
 
 sye_prepare_package () {
 
+	echo 'sudo apt-get install curl'
+
 	sudo apt-get install curl
 
 }
