@@ -206,17 +206,34 @@ sys_tips () {
 
 cat << __EOF__
 
-## Next Steps:
+##############################
+##
+## ## Next Steps:
+##
+##############################
+
+Next, you can try the following actions.
 
 ### Update
 
-``` sh
+... sh
 sudo apt-get update
-```
+...
 
-``` sh
-sudo apt-get update
-```
+
+### Search
+
+... sh
+apt-cache search anduinos
+...
+
+
+### Install
+
+... sh
+sudo apt-get install anduinos-wallpapers
+...
+
 
 __EOF__
 
