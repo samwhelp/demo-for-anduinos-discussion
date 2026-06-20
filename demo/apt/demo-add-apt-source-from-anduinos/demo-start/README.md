@@ -64,7 +64,7 @@ run to search package
 apt-cache search anduinos
 ```
 
-run to install anduinos-wallpapers
+run to install [anduinos-wallpapers](https://github.com/AiursoftWeb/AnduinOS-Packages/tree/master/anduinos-wallpapers)
 
 ``` sh
 sudo apt-get install anduinos-wallpapers
