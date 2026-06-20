@@ -11,6 +11,7 @@
 * [Usage](#usage)
 * [Check](#check)
 * [Howto](#howto)
+* [Discussions](#discussions)
 
 
 
