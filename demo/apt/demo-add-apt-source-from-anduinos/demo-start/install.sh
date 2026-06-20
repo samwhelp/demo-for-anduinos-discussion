@@ -89,9 +89,22 @@ REF_AOS_APT_SOURCE_LIST_FILE_PATH="/etc/apt/sources.list.d/anduinos.sources"
 ## ## Prepare
 ##
 
-mod_prepare () {
+sye_prepare_package () {
 
 	sudo apt-get install curl
+
+}
+
+mod_prepare () {
+
+	echo ""
+	echo ""
+	echo "##"
+	echo "## ## mod_prepare"
+	echo "##"
+	echo ""
+
+	sye_prepare_package
 
 }
 
@@ -121,9 +134,19 @@ sys_aos_keyring_file_create () {
 
 	curl -sL "${certificate_url}" | sed '1s/^\xEF\xBB\xBF//' | gpg --dearmor | sudo tee "${keyring_file_path}" > /dev/null
 
+	echo
+	echo "Create File: ${keyring_file_path}"
+
 }
 
 mod_aos_keyring_create () {
+
+	echo ""
+	echo ""
+	echo "##"
+	echo "## ## mod_aos_keyring_create"
+	echo "##"
+	echo ""
 
 	sys_aos_keyrings_dir_create
 
@@ -138,7 +161,7 @@ mod_aos_keyring_create () {
 ## ## Model / Apt Source
 ##
 
-mod_aos_apt_source_list_create () {
+sys_aos_apt_source_list_create () {
 
 	local apkg_server_url="${REF_APKG_SERVER_URL}"
 	local ubuntu_version_codename="${REF_TARGET_UBUNTU_VERSION_CODENAME}"
@@ -154,8 +177,23 @@ Architectures: amd64
 Signed-By: ${aos_keyring_file_path}
 __EOF__
 
+	echo
+	echo "Create File: ${aos_apt_source_list_file_path}"
+
 }
 
+mod_aos_apt_source_list_create () {
+
+	echo ""
+	echo ""
+	echo "##"
+	echo "## ## mod_aos_apt_source_list_create"
+	echo "##"
+	echo ""
+
+	sys_aos_apt_source_list_create
+
+}
 
 
 
