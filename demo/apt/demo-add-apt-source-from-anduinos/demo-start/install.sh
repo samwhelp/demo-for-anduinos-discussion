@@ -97,12 +97,12 @@ sye_prepare_package () {
 
 mod_prepare () {
 
-	echo ""
-	echo ""
+	echo
+	echo
 	echo "##"
 	echo "## ## mod_prepare"
 	echo "##"
-	echo ""
+	echo
 
 	sye_prepare_package
 
@@ -141,12 +141,12 @@ sys_aos_keyring_file_create () {
 
 mod_aos_keyring_create () {
 
-	echo ""
-	echo ""
+	echo
+	echo
 	echo "##"
 	echo "## ## mod_aos_keyring_create"
 	echo "##"
-	echo ""
+	echo
 
 	sys_aos_keyrings_dir_create
 
@@ -184,16 +184,58 @@ __EOF__
 
 mod_aos_apt_source_list_create () {
 
-	echo ""
-	echo ""
+	echo
+	echo
 	echo "##"
 	echo "## ## mod_aos_apt_source_list_create"
 	echo "##"
-	echo ""
+	echo
 
 	sys_aos_apt_source_list_create
 
 }
+
+
+
+
+##
+## ## Model / Tips
+##
+
+sys_tips () {
+
+cat << __EOF__
+
+## Next Steps:
+
+### Update
+
+``` sh
+sudo apt-get update
+```
+
+``` sh
+sudo apt-get update
+```
+
+__EOF__
+
+}
+
+mod_tips () {
+
+	echo
+	echo
+	echo "##"
+	echo "## ## mod_tips"
+	echo "##"
+	echo
+
+	sys_tips
+
+}
+
+
 
 
 
@@ -208,6 +250,8 @@ model_add_apt_source_from_anduinos () {
 	mod_aos_keyring_create
 
 	mod_aos_apt_source_list_create
+
+	mod_tips
 
 }
 
