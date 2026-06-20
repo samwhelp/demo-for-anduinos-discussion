@@ -97,7 +97,7 @@ show
 
 ## Usage / basic / choose ubuntu version
 
-choose questing, and run it
+default is resolute, choose questing, and run it
 
 ``` sh
 REF_TARGET_UBUNTU_VERSION_CODENAME=questing ./add-apt-source-from-anduinos.sh
@@ -109,6 +109,23 @@ then run
 sudo apt-get update
 ```
 
+
+
+
+## Usage / advance / run one line
+
+> run
+
+``` sh
+bash <(curl -L https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/apt/demo-add-apt-source-from-anduinos/demo-start/add-apt-source-from-anduinos.sh)
+```
+
+
+> or run
+
+``` sh
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/apt/demo-add-apt-source-from-anduinos/demo-start/add-apt-source-from-anduinos.sh -O - )
+```
 
 
 
