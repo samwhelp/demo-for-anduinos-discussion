@@ -7,15 +7,27 @@
 
 ## Subject
 
+* [Introduction](#introduction)
 * [Usage](#usage)
 * [Check](#check)
+* [Howto](#howto)
+
+
+
+
+## Introduction
+
+The script create two files
+
+* /usr/share/keyrings/anduinos-archive-keyring.gpg
+* /etc/apt/sources.list.d/anduinos.sources
 
 
 
 
 ## Usage
 
-Howto download [add-apt-source-from-anduinos.sh](https://github.com/samwhelp/demo-for-anduinos-discussion/blob/main/demo/apt/demo-add-apt-source-from-anduinos/demo-start/add-apt-source-from-anduinos.sh) and run [it](https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/apt/demo-add-apt-source-from-anduinos/demo-start/add-apt-source-from-anduinos.sh).
+How to download [add-apt-source-from-anduinos.sh](https://github.com/samwhelp/demo-for-anduinos-discussion/blob/main/demo/apt/demo-add-apt-source-from-anduinos/demo-start/add-apt-source-from-anduinos.sh) and run [it](https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/apt/demo-add-apt-source-from-anduinos/demo-start/add-apt-source-from-anduinos.sh).
 
 
 
@@ -181,4 +193,22 @@ Suites: resolute-addon
 Components: main
 Architectures: amd64
 Signed-By: /usr/share/keyrings/anduinos-archive-keyring.gpg
+```
+
+
+
+
+## Howto
+
+### How to remove
+
+just remove two files and run `sudo apt-get update`
+
+``` sh
+sudo rm -f /etc/apt/sources.list.d/anduinos.sources
+
+sudo rm -f /usr/share/keyrings/anduinos-archive-keyring.gpg
+
+sudo apt-get update
+
 ```
