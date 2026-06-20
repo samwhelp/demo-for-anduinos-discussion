@@ -212,3 +212,10 @@ sudo rm -f /usr/share/keyrings/anduinos-archive-keyring.gpg
 sudo apt-get update
 
 ```
+
+
+
+
+## Discussions
+
+* [How to add apt sources from AnduinOS](https://github.com/Anduin2017/AnduinOS/discussions/354)
