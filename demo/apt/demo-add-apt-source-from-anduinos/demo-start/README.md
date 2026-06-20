@@ -127,6 +127,11 @@ bash <(curl -L https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-disc
 bash <(wget -q https://raw.githubusercontent.com/samwhelp/demo-for-anduinos-discussion/refs/heads/main/demo/apt/demo-add-apt-source-from-anduinos/demo-start/add-apt-source-from-anduinos.sh -O - )
 ```
 
+then run
+
+``` sh
+sudo apt-get update
+```
 
 
 ## Check
