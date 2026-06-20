@@ -80,7 +80,9 @@ REF_AOS_KEYRING_FILE_PATH="${REF_AOS_KEYRINGS_DIR_PATH}/${REF_AOS_KEYRING_FILE_N
 ## ## Option / Keyring
 ##
 
-REF_AOS_APT_SOURCE_LIST_FILE_PATH="/etc/apt/sources.list.d/anduinos.sources"
+REF_AOS_APT_SOURCE_LIST_PART_DIR_PATH="/etc/apt/sources.list.d"
+
+REF_AOS_APT_SOURCE_LIST_FILE_PATH="${REF_AOS_APT_SOURCE_LIST_PART_DIR_PATH}/anduinos.sources"
 
 
 
@@ -167,6 +169,9 @@ sys_aos_apt_source_list_create () {
 	local ubuntu_version_codename="${REF_TARGET_UBUNTU_VERSION_CODENAME}"
 	local aos_keyring_file_path="${REF_AOS_KEYRING_FILE_PATH}"
 	local aos_apt_source_list_file_path="${REF_AOS_APT_SOURCE_LIST_FILE_PATH}"
+	local aos_apt_source_list_part_dir_path="${REF_AOS_APT_SOURCE_LIST_PART_DIR_PATH}"
+
+	sudo mkdir -p "${aos_apt_source_list_part_dir_path}"
 
 	sudo tee "${aos_apt_source_list_file_path}" > /dev/null << __EOF__
 Types: deb
