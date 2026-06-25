@@ -37,8 +37,8 @@
 ## If you are building against Ubuntu 25.10, this should be "questing".
 ## If you are building against Ubuntu 26.04, this should be "resolute".
 ## Can be: jammy noble oracular plucky questing resolute
-DEFAULTS_TARGET_UBUNTU_VERSION_CODENAME="resolute"
-REF_TARGET_UBUNTU_VERSION_CODENAME="${REF_TARGET_UBUNTU_VERSION_CODENAME:=$DEFAULTS_TARGET_UBUNTU_VERSION_CODENAME}"
+DEFAULT_TARGET_UBUNTU_VERSION_CODENAME="resolute"
+REF_TARGET_UBUNTU_VERSION_CODENAME="${REF_TARGET_UBUNTU_VERSION_CODENAME:=$DEFAULT_TARGET_UBUNTU_VERSION_CODENAME}"
 
 
 
