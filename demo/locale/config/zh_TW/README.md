@@ -49,6 +49,19 @@ LC_ALL=
 ```
 
 
+run
+
+``` sh
+file /etc/localtime
+```
+
+show
+
+```
+/etc/localtime: symbolic link to /usr/share/zoneinfo/Asia/Taipei
+```
+
+
 
 
 ## Link
