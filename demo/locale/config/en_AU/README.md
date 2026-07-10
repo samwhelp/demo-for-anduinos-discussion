@@ -53,6 +53,21 @@ LC_ALL=
 
 
 
+run
+
+``` sh
+file /etc/localtime
+```
+
+show
+
+```
+/etc/localtime: symbolic link to /usr/share/zoneinfo/Australia/Perth
+```
+
+
+
+
 ## Link
 
 * Ubuntu Community Help Wiki / [Locale](https://help.ubuntu.com/community/Locale)
