@@ -1,5 +1,23 @@
 
 
+
+
+## Subject
+
+* [Discussions](#discussions)
+* [Explore](#explore)
+* [Link](#link)
+
+
+
+
+## Discussions
+
+* [#370 - Question about Region & Language Setting in AnduinOS 2.0](https://github.com/Anduin2017/AnduinOS/discussions/370)
+
+
+
+
 ## Explore
 
 run
@@ -23,6 +41,9 @@ zh_CN.utf8
 zh_HK.utf8
 zh_TW.utf8
 ```
+
+
+
 
 run
 
