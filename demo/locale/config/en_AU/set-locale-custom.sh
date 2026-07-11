@@ -27,7 +27,7 @@ sudo locale-gen --lang en_US en_AU
 ## ## config /etc/locale.conf
 ##
 
-cat << __EOF__ | sudo tee /etc/locale.conf
+cat << __EOF__ | sudo tee /etc/locale.conf > /dev/null 2>&1
 LANG=en_US.UTF-8
 LC_NUMERIC="en_AU.UTF-8"
 LC_TIME="en_AU.UTF-8"
