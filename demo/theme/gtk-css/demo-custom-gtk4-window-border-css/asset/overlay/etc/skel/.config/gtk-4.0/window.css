@@ -1,0 +1,19 @@
+/* Apply standard borders to all client-side decorated GTK 4 windows */
+window.csd {
+    border: 2px solid #6272a4;
+    border-radius: 12px;
+}
+
+/* Ensure solid window variations (without invisible margins) receive the same border */
+window.solid-csd {
+    padding: 0px;
+    border: 2px solid #6272a4;
+    border-radius: 12px;
+}
+
+/* Remove or adapt borders when the window is maximized to prevent display artifacts */
+window.maximized {
+    border: none;
+    border-radius: 0px;
+}
+
